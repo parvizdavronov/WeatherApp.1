@@ -1,0 +1,1 @@
+"Hotfix: Fixed crash when no city is entered"
